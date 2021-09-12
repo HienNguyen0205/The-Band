@@ -130,7 +130,7 @@ html{
 #slider{
     margin-top: 46px;
     padding-top: 50%;
-    background-image: url('/ba-nhung-khong-ga/assets/img/chicago.jpg');
+    background-image: url('../img/chicago.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top center;
@@ -277,7 +277,7 @@ div .col{
 .last-img{
     width: 100%;
     padding-top: 50%;
-    background-image: url('/ba-nhung-khong-ga/assets/img/map.jpg');
+    background-image: url('../img/map.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
