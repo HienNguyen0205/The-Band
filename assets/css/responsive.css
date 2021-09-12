@@ -1,5 +1,5 @@
 /* Mobile and Tablet */
-@media (max-width: 1023px){
+@media (max-width: 63.9375em){
     #footer .footer-icon i {
         font-size: 40px;
     }
@@ -8,7 +8,7 @@
     }
 }
 /* Mobile */
-@media (max-width: 740px){
+@media (max-width: 46.1875em){
     .col-full-mb{
         width: 100% ;
     }
