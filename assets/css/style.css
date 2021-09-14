@@ -73,7 +73,7 @@ html{
     display: none;
     position: absolute;
     background-color: white;
-    box-shadow: 2px 2px;
+    box-shadow: 0 0 10px #000;
 }
 #nav > li > a{
     color: white;
